@@ -1,4 +1,5 @@
-### Meu nome é Pedro Henrique e gosto das altas do cabelo curto que usam óculos
+### Meu nome é Pedro Henrique 
+
 
 <!--
 **Pedroazay/Pedroazay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
